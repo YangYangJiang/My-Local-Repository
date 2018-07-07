@@ -1,3 +1,4 @@
+#encoding=utf-8
 import socket
 from multiprocessing import Process
 import re
